@@ -1,7 +1,7 @@
 import React, { createContext, useContext, useEffect, useState } from 'react';
 import type { ReactNode } from 'react';
 
-import { Home, Info, Mail, Palette, Star, Menu, X, ArrowRight, Users, Award, Shield, Code, Zap, Layers } from 'lucide-react';
+import { Home, Mail, Palette, Star, Menu, X, ArrowRight, Code, Zap, Layers } from 'lucide-react';
 
 interface DemoItem {
   id: number;
